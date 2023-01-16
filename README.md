@@ -26,6 +26,6 @@ The file <a href="https://github.com/Arlequiin/image_processoring/blob/main/main
 <br>__Example below__<br>
 - Original :<br>
 <img src="somegif.gif">
-- Output :<br>
+<br>- Output :<br>
 <img src="somegif_output.jpg">
 
