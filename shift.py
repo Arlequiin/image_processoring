@@ -9,7 +9,7 @@ pixels_out=out.load()
 matrix=[]
 matrix2=[]
 #=---------------------
-deca=100 #changer cette valeur pour faire varier les pixels de decalage
+deca=100 #change this value (amount in px)
 #----------------------
 for x in range(width):
     matrix.append([pixels[x,y] for y in range(height)])
